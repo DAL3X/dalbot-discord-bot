@@ -7,7 +7,7 @@ A little Discord Bot for entertainment and communication purposes.
 The Bot is written completely in Java and utilizes the Java Discord API (JDA).
 The code is as light weight and straight forward as possible, but still flexible enough for smaller changes.
 
-The config data and needed API tokens are stored inside a class (the uploaded version is just blank) because of set constraints in my enviroment.
+The config data and needed API tokens are stored inside a class (the uploaded version is just blank) because of set constraints in my environment.
  **I highly advise to change this and deposit the tokens savely!**
 
 _**The project is organized in a maven repository and should be imported as such to avoid issues!**_
